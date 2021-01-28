@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 ![Android Studio](https://img.shields.io/badge/Android_Studio-64dd17?style=for-the-badge&logo=android-studio&logoColor=blue&labelColor=101010)</br>
 
 ### Find me at:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn_Melquiades_Mora-64dd17?style=social&logo=linkedin&logoColor=blue&labelColor=101010)](www.linkedin.com/in/melquiades-mora)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn_Melquiades_Mora-64dd17?style=social&logo=linkedin&logoColor=blue&labelColor=101010)](https://www.linkedin.com/in/melquiades-mora)
 
